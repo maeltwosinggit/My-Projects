@@ -87,6 +87,7 @@
     background-image: linear-gradient(#00abf0, #00abf0);
     background-repeat: no-repeat;
     -webkit-background-clip: text;
+    background-clip: text;
     background-position: -280px 0;
     animation: animateText 5s linear infinite;
     
