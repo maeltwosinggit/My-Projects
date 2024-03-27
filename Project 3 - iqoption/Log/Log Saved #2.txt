@@ -1,0 +1,119 @@
+Log Saved #2
+
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project> & C:/Users/uadrian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/uadrian/OneDrive - Averroes Data Science/Documents/Pyhon Project/buy_spot_martingale.py"
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370617334
+Time Placed = 2023-10-29 11:30:46.272000
+you loss -5$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370619719
+Time Placed = 2023-10-29 11:32:03.892000
+you win 9.680000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370621917
+Time Placed = 2023-10-29 11:33:04.127000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370624474
+Time Placed = 2023-10-29 11:34:03.604000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370626405
+Time Placed = 2023-10-29 11:35:03.204000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370628376
+Time Placed = 2023-10-29 11:36:03.387000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370631014
+Time Placed = 2023-10-29 11:37:02.788000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370633435
+Time Placed = 2023-10-29 11:38:04.102000
+you loss -5$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370635860
+Time Placed = 2023-10-29 11:39:04.459000
+you win 9.680000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370637941
+Time Placed = 2023-10-29 11:40:04.029000
+you loss -5$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370640243
+Time Placed = 2023-10-29 11:41:03.530000
+you win 9.680000000000001$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370643075
+Time Placed = 2023-10-29 11:42:03.615000
+you loss -5$
+
+
+Check Connection: True
+iteration -1
+current max range: 10
+True
+18370645386
+Time Placed = 2023-10-29 11:43:03.434000

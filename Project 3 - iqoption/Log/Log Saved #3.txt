@@ -1,0 +1,314 @@
+Log Saved #3
+
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project> & C:/Users/uadrian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/uadrian/OneDrive - Averroes Data Science/Documents/Python Project/buy_spot_martingale.py"
+
+
+Check Connection: True
+Cycle: 1
+iteration -1
+current max range: 10
+True
+18371979826
+Time Placed = 2023-10-29 23:23:07.346000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 2
+iteration -1
+current max range: 10
+True
+18371983064
+Time Placed = 2023-10-29 23:24:05.727000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 3
+iteration -1
+current max range: 10
+True
+18371985936
+Time Placed = 2023-10-29 23:25:07.934000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 4
+iteration -1
+current max range: 10
+True
+18371988571
+Time Placed = 2023-10-29 23:26:05.681000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 5
+iteration -1
+current max range: 10
+True
+18371991166
+Time Placed = 2023-10-29 23:27:11.952000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 6
+iteration -1
+current max range: 10
+True
+18371994030
+Time Placed = 2023-10-29 23:28:06.618000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 7
+iteration -1
+current max range: 10
+True
+18371997033
+Time Placed = 2023-10-29 23:29:07.183000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 8
+iteration -1
+current max range: 10
+True
+18371999728
+Time Placed = 2023-10-29 23:30:05.469000
+you win 45.58$
+
+
+Check Connection: True
+Cycle: 9
+iteration -1
+current max range: 10
+True
+18372002130
+Time Placed = 2023-10-29 23:31:06.087000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 10
+iteration -1
+current max range: 10
+True
+18372005062
+Time Placed = 2023-10-29 23:32:05.522000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 11
+iteration -1
+current max range: 10
+True
+18372007806
+Time Placed = 2023-10-29 23:33:05.019000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 12
+iteration -1
+current max range: 10
+True
+18372010762
+Time Placed = 2023-10-29 23:34:08.492000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 13
+iteration -1
+current max range: 10
+True
+18372013478
+Time Placed = 2023-10-29 23:35:06.438000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 14
+iteration -1
+current max range: 10
+True
+18372016123
+Time Placed = 2023-10-29 23:36:04.312000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 15
+iteration -1
+current max range: 10
+True
+18372018478
+Time Placed = 2023-10-29 23:37:06.024000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 16
+iteration -1
+current max range: 10
+True
+18372021174
+Time Placed = 2023-10-29 23:38:09.257000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 17
+iteration -1
+current max range: 10
+True
+18372023219
+Time Placed = 2023-10-29 23:39:05.701000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 18
+iteration -1
+current max range: 10
+True
+18372025649
+Time Placed = 2023-10-29 23:40:06.119000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 19
+iteration -1
+current max range: 10
+True
+18372028287
+Time Placed = 2023-10-29 23:41:04.626000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 20
+iteration -1
+current max range: 10
+True
+18372030377
+Time Placed = 2023-10-29 23:42:04.035000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 21
+iteration -1
+current max range: 10
+True
+18372032815
+Time Placed = 2023-10-29 23:43:05.122000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 22
+iteration -1
+current max range: 10
+True
+18372035597
+Time Placed = 2023-10-29 23:44:07.156000
+you win 45.58$
+
+
+Check Connection: True
+Cycle: 23
+iteration -1
+current max range: 10
+True
+18372038177
+Time Placed = 2023-10-29 23:45:08.278000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 24
+iteration -1
+current max range: 10
+True
+18372041034
+Time Placed = 2023-10-29 23:46:07.382000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 25
+iteration -1
+current max range: 10
+True
+18372044515
+Time Placed = 2023-10-29 23:47:17.753000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 26
+iteration -1
+current max range: 10
+True
+18372046628
+Time Placed = 2023-10-29 23:48:04.329000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 27
+iteration -1
+current max range: 10
+True
+18372049449
+Time Placed = 2023-10-29 23:49:06.351000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 28
+iteration -1
+current max range: 10
+True
+18372052015
+Time Placed = 2023-10-29 23:50:05.355000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 29
+iteration -1
+current max range: 10
+True
+18372054465
+Time Placed = 2023-10-29 23:51:06.113000
+you loss -51.09$
+
+
+Check Connection: True
+Cycle: 30
+iteration -1
+current max range: 10
+True
+18372057299
+Time Placed = 2023-10-29 23:52:08.445000
+you loss -110.86$
+
+
+Check Connection: True
+Cycle: 31
+iteration -1
+current max range: 10
+True
+18372060070
+Time Placed = 2023-10-29 23:53:07.790000
+you loss -240.58$
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project>

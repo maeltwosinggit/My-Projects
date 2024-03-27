@@ -1,0 +1,156 @@
+Log Saved #1
+
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project> & C:/Users/uadrian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/uadrian/OneDrive - Averroes Data Science/Documents/Python Project/sell_spot_martingale.py"
+
+
+Check Connection: True
+iteration 0
+current max range: 10
+True
+18370404766
+Time Placed = 2023-10-29 09:54:50.503000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration 1
+current max range: 10
+True
+18370406641
+Time Placed = 2023-10-29 09:56:02.986000
+you loss -5$
+
+
+Check Connection: True
+iteration 2
+current max range: 10
+True
+18370408379
+Time Placed = 2023-10-29 09:57:03.883000
+you loss -10.85$
+
+
+Check Connection: True
+iteration 3
+current max range: 10
+True
+18370410891
+Time Placed = 2023-10-29 09:58:02.218000
+you loss -23.54$
+
+
+Check Connection: True
+iteration 4
+current max range: 10
+True
+18370413383
+Time Placed = 2023-10-29 09:59:03.813000
+you loss -51.09$
+
+
+Check Connection: True
+iteration 5
+current max range: 10
+True
+18370415342
+Time Placed = 2023-10-29 10:00:03.732000
+you win 98.91000000000001$
+
+
+Check Connection: True
+iteration 6
+current max range: 10
+True
+18370417225
+Time Placed = 2023-10-29 10:01:03.022000
+you win 4.460000000000001$
+
+
+Check Connection: True
+iteration 7
+current max range: 10
+True
+18370420030
+Time Placed = 2023-10-29 10:02:02.247000
+you loss -5$
+
+
+Check Connection: True
+iteration 8
+current max range: 10
+True
+18370422552
+Time Placed = 2023-10-29 10:03:02.973000
+you loss -10.85$
+
+
+Check Connection: True
+iteration 9
+current max range: 10
+True
+18370424865
+Time Placed = 2023-10-29 10:04:02.393000
+you win 21.0$
+
+
+Check Connection: True
+iteration 10
+current max range: 10
+True
+18370427070
+Time Placed = 2023-10-29 10:05:03.743000
+you win 4.460000000000001$
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project> & C:/Users/uadrian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/uadrian/OneDrive - Averroes Data Science/Documents/Python Project/buy_spot_martingale.py"
+
+
+Check Connection: True
+iteration 0
+current max range: 10
+True
+18370520022
+Time Placed = 2023-10-29 10:48:28.652000
+you loss -5$
+
+
+Check Connection: True
+iteration 1
+current max range: 10
+True
+18370521061
+Time Placed = 2023-10-29 10:49:03.732000
+you loss -10.85$
+
+
+Check Connection: True
+iteration 2
+current max range: 10
+True
+18370523525
+Time Placed = 2023-10-29 10:50:02.200000
+you win 21.009999999999998$
+
+
+Check Connection: True
+iteration 3
+current max range: 10
+True
+18370525577
+Time Placed = 2023-10-29 10:51:03.497000
+you loss -5$
+
+
+Check Connection: True
+iteration 4
+current max range: 10
+True
+18370527396
+Time Placed = 2023-10-29 10:52:03.334000
+you win 9.680000000000001$
+
+
+Check Connection: True
+iteration 5
+current max range: 10
+True
+18370530117
+Time Placed

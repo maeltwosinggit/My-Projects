@@ -1,0 +1,1021 @@
+Log Saved #5
+
+Cycle: 174
+iteration -1
+current max range: 10
+Current Balance: 1791.74
+True
+18375594126
+Time Placed = 2023-10-31 01:55:01.584000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 175
+iteration -1
+current max range: 10
+Current Balance: 1780.84
+True
+18375597307
+Time Placed = 2023-10-31 01:56:01.280000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 176
+iteration -1
+current max range: 10
+Current Balance: 1757.08
+True
+18375600330
+Time Placed = 2023-10-31 01:57:03.010000
+you loss -51.8$
+
+
+Check Connection: True
+Cycle: 177
+iteration -1
+current max range: 10
+Current Balance: 1705.28
+True
+18375603403
+Time Placed = 2023-10-31 01:58:03.727000
+you loss -112.92$
+
+
+Check Connection: True
+Cycle: 178
+iteration -1
+current max range: 10
+Current Balance: 1592.36
+True
+18375605871
+Time Placed = 2023-10-31 01:59:02.428000
+you win 219.65$
+
+
+Check Connection: True
+Cycle: 179
+iteration -1
+current max range: 10
+Current Balance: 1812.01
+True
+18375608596
+Time Placed = 2023-10-31 02:00:03.155000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 180
+iteration -1
+current max range: 10
+Current Balance: 1807.01
+True
+18375611416
+Time Placed = 2023-10-31 02:01:01.835000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 181
+iteration -1
+current max range: 10
+Current Balance: 1816.73
+True
+18375613755
+Time Placed = 2023-10-31 02:02:01.535000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 182
+iteration -1
+current max range: 10
+Current Balance: 1821.19
+True
+18375616471
+Time Placed = 2023-10-31 02:03:02.223000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 183
+iteration -1
+current max range: 10
+Current Balance: 1825.65
+True
+18375619014
+Time Placed = 2023-10-31 02:04:02.901000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 184
+iteration -1
+current max range: 10
+Current Balance: 1830.11
+True
+18375621901
+Time Placed = 2023-10-31 02:05:02.584000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 185
+iteration -1
+current max range: 10
+Current Balance: 1834.57
+True
+18375624814
+Time Placed = 2023-10-31 02:06:01.285000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 186
+iteration -1
+current max range: 10
+Current Balance: 1839.03
+True
+18375628098
+Time Placed = 2023-10-31 02:07:01.959000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 187
+iteration -1
+current max range: 10
+Current Balance: 1843.49
+True
+18375630555
+Time Placed = 2023-10-31 02:08:02.643000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 188
+iteration -1
+current max range: 10
+Current Balance: 1838.49
+True
+18375633128
+Time Placed = 2023-10-31 02:09:02.336000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 189
+iteration -1
+current max range: 10
+Current Balance: 1848.21
+True
+18375635960
+Time Placed = 2023-10-31 02:10:02.004000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 190
+iteration -1
+current max range: 10
+Current Balance: 1852.67
+True
+18375639241
+Time Placed = 2023-10-31 02:11:01.669000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 191
+iteration -1
+current max range: 10
+Current Balance: 1847.67
+True
+18375642041
+Time Placed = 2023-10-31 02:12:01.322000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 192
+iteration -1
+current max range: 10
+Current Balance: 1836.77
+True
+18375645409
+Time Placed = 2023-10-31 02:13:03.026000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 193
+iteration -1
+current max range: 10
+Current Balance: 1857.97
+True
+18375648019
+Time Placed = 2023-10-31 02:14:01.694000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 194
+iteration -1
+current max range: 10
+Current Balance: 1852.97
+True
+18375651396
+Time Placed = 2023-10-31 02:15:02.382000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 195
+iteration -1
+current max range: 10
+Current Balance: 1862.69
+True
+18375654637
+Time Placed = 2023-10-31 02:16:02.026000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 196
+iteration -1
+current max range: 10
+Current Balance: 1857.69
+True
+18375657649
+Time Placed = 2023-10-31 02:17:02.685000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 197
+iteration -1
+current max range: 10
+Current Balance: 1867.41
+True
+18375660549
+Time Placed = 2023-10-31 02:18:01.303000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 198
+iteration -1
+current max range: 10
+Current Balance: 1862.41
+True
+18375663327
+Time Placed = 2023-10-31 02:19:01.983000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 199
+iteration -1
+current max range: 10
+Current Balance: 1851.51
+True
+18375666298
+Time Placed = 2023-10-31 02:20:01.672000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 200
+iteration -1
+current max range: 10
+Current Balance: 1827.75
+True
+18375669134
+Time Placed = 2023-10-31 02:21:01.325000
+you loss -51.8$
+
+
+Check Connection: True
+Cycle: 201
+iteration -1
+current max range: 10
+Current Balance: 1775.95
+True
+18375672396
+Time Placed = 2023-10-31 02:22:03.030000
+you win 100.76$
+
+
+Check Connection: True
+Cycle: 202
+iteration -1
+current max range: 10
+Current Balance: 1876.71
+True
+18375675292
+Time Placed = 2023-10-31 02:23:02.687000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 203
+iteration -1
+current max range: 10
+Current Balance: 1871.71
+True
+18375678546
+Time Placed = 2023-10-31 02:24:01.360000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 204
+iteration -1
+current max range: 10
+Current Balance: 1881.43
+True
+18375681122
+Time Placed = 2023-10-31 02:25:02.052000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 205
+iteration -1
+current max range: 10
+Current Balance: 1876.43
+True
+18375684442
+Time Placed = 2023-10-31 02:26:01.708000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 206
+iteration -1
+current max range: 10
+Current Balance: 1886.15
+True
+18375687161
+Time Placed = 2023-10-31 02:27:02.388000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 207
+iteration -1
+current max range: 10
+Current Balance: 1881.15
+True
+18375690017
+Time Placed = 2023-10-31 02:28:03.079000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 208
+iteration -1
+current max range: 10
+Current Balance: 1870.25
+True
+18375692671
+Time Placed = 2023-10-31 02:29:01.763000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 209
+iteration -1
+current max range: 10
+Current Balance: 1846.49
+True
+18375695932
+Time Placed = 2023-10-31 02:30:03.437000
+you loss -51.8$
+
+
+Check Connection: True
+Cycle: 210
+iteration -1
+current max range: 10
+Current Balance: 1794.69
+True
+18375698903
+Time Placed = 2023-10-31 02:31:02.094000
+you win 100.74999999999999$
+
+
+Check Connection: True
+Cycle: 211
+iteration -1
+current max range: 10
+Current Balance: 1895.44
+True
+18375701950
+Time Placed = 2023-10-31 02:32:01.755000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 212
+iteration -1
+current max range: 10
+Current Balance: 1890.44
+True
+18375704795
+Time Placed = 2023-10-31 02:33:01.411000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 213
+iteration -1
+current max range: 10
+Current Balance: 1879.54
+True
+18375707347
+Time Placed = 2023-10-31 02:34:02.133000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 214
+iteration -1
+current max range: 10
+Current Balance: 1900.74
+True
+18375710738
+Time Placed = 2023-10-31 02:35:01.783000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 215
+iteration -1
+current max range: 10
+Current Balance: 1905.2
+True
+18375713501
+Time Placed = 2023-10-31 02:36:01.443000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 216
+iteration -1
+current max range: 10
+Current Balance: 1909.66
+True
+18375716960
+Time Placed = 2023-10-31 02:37:02.124000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 217
+iteration -1
+current max range: 10
+Current Balance: 1904.66
+True
+18375719781
+Time Placed = 2023-10-31 02:38:02.781000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 218
+iteration -1
+current max range: 10
+Current Balance: 1914.38
+True
+18375722756
+Time Placed = 2023-10-31 02:39:01.422000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 219
+iteration -1
+current max range: 10
+Current Balance: 1909.38
+True
+18375725312
+Time Placed = 2023-10-31 02:40:02.111000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 220
+iteration -1
+current max range: 10
+Current Balance: 1898.48
+True
+18375728558
+Time Placed = 2023-10-31 02:41:01.758000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 221
+iteration -1
+current max range: 10
+Current Balance: 1874.72
+True
+18375731755
+Time Placed = 2023-10-31 02:42:01.418000
+you win 46.21000000000001$
+
+
+Check Connection: True
+Cycle: 222
+iteration -1
+current max range: 10
+Current Balance: 1920.93
+True
+18375734451
+Time Placed = 2023-10-31 02:43:02.073000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 223
+iteration -1
+current max range: 10
+Current Balance: 1915.93
+True
+18375736670
+Time Placed = 2023-10-31 02:44:01.706000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 224
+iteration -1
+current max range: 10
+Current Balance: 1925.65
+True
+18375738864
+Time Placed = 2023-10-31 02:45:01.351000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 225
+iteration -1
+current max range: 10
+Current Balance: 1930.11
+True
+18375742248
+Time Placed = 2023-10-31 02:46:02.013000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 226
+iteration -1
+current max range: 10
+Current Balance: 1925.11
+True
+18375745183
+Time Placed = 2023-10-31 02:47:01.698000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 227
+iteration -1
+current max range: 10
+Current Balance: 1914.21
+True
+18375747723
+Time Placed = 2023-10-31 02:48:01.359000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 228
+iteration -1
+current max range: 10
+Current Balance: 1935.41
+True
+18375750299
+Time Placed = 2023-10-31 02:49:02.027000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 229
+iteration -1
+current max range: 10
+Current Balance: 1939.87
+True
+18375753045
+Time Placed = 2023-10-31 02:50:01.753000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 230
+iteration -1
+current max range: 10
+Current Balance: 1934.87
+True
+18375756364
+Time Placed = 2023-10-31 02:51:01.415000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 231
+iteration -1
+current max range: 10
+Current Balance: 1923.97
+True
+18375759938
+Time Placed = 2023-10-31 02:52:02.090000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 232
+iteration -1
+current max range: 10
+Current Balance: 1945.17
+True
+18375762722
+Time Placed = 2023-10-31 02:53:01.736000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 233
+iteration -1
+current max range: 10
+Current Balance: 1940.17
+True
+18375765371
+Time Placed = 2023-10-31 02:54:01.413000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 234
+iteration -1
+current max range: 10
+Current Balance: 1949.89
+True
+18375768134
+Time Placed = 2023-10-31 02:55:02.068000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 235
+iteration -1
+current max range: 10
+Current Balance: 1944.89
+True
+18375770897
+Time Placed = 2023-10-31 02:56:01.743000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 236
+iteration -1
+current max range: 10
+Current Balance: 1933.99
+True
+18375773509
+Time Placed = 2023-10-31 02:57:01.410000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 237
+iteration -1
+current max range: 10
+Current Balance: 1955.19
+True
+18375776193
+Time Placed = 2023-10-31 02:58:02.082000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 238
+iteration -1
+current max range: 10
+Current Balance: 1959.65
+True
+18375779057
+Time Placed = 2023-10-31 02:59:02.768000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 239
+iteration -1
+current max range: 10
+Current Balance: 1964.11
+True
+18375781950
+Time Placed = 2023-10-31 03:00:01.427000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 240
+iteration -1
+current max range: 10
+Current Balance: 1968.57
+True
+18375785840
+Time Placed = 2023-10-31 03:01:02.131000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 241
+iteration -1
+current max range: 10
+Current Balance: 1973.03
+True
+18375789646
+Time Placed = 2023-10-31 03:02:02.778000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 242
+iteration -1
+current max range: 10
+Current Balance: 1977.49
+True
+18375792981
+Time Placed = 2023-10-31 03:03:01.381000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 243
+iteration -1
+current max range: 10
+Current Balance: 1972.49
+True
+18375795719
+Time Placed = 2023-10-31 03:04:02.032000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 244
+iteration -1
+current max range: 10
+Current Balance: 1961.59
+True
+18375798266
+Time Placed = 2023-10-31 03:05:01.657000
+you win 21.2$
+
+
+Check Connection: True
+Cycle: 245
+iteration -1
+current max range: 10
+Current Balance: 1982.79
+True
+18375801256
+Time Placed = 2023-10-31 03:06:03.319000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 246
+iteration -1
+current max range: 10
+Current Balance: 1987.25
+True
+18375805423
+Time Placed = 2023-10-31 03:07:01.951000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 247
+iteration -1
+current max range: 10
+Current Balance: 1982.25
+True
+18375808922
+Time Placed = 2023-10-31 03:08:01.619000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 248
+iteration -1
+current max range: 10
+Current Balance: 1971.35
+True
+18375811545
+Time Placed = 2023-10-31 03:09:02.271000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 249
+iteration -1
+current max range: 10
+Current Balance: 1947.59
+True
+18375814213
+Time Placed = 2023-10-31 03:10:01.908000
+you win 46.21000000000001$
+
+
+Check Connection: True
+Cycle: 250
+iteration -1
+current max range: 10
+Current Balance: 1993.8
+True
+18375816965
+Time Placed = 2023-10-31 03:11:01.513000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 251
+iteration -1
+current max range: 10
+Current Balance: 1988.8
+True
+18375819676
+Time Placed = 2023-10-31 03:12:02.146000
+you win 9.72$
+
+
+Check Connection: True
+Cycle: 252
+iteration -1
+current max range: 10
+Current Balance: 1998.52
+True
+18375823083
+Time Placed = 2023-10-31 03:13:01.733000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 253
+iteration -1
+current max range: 10
+Current Balance: 2002.98
+True
+18375826320
+Time Placed = 2023-10-31 03:14:01.364000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 254
+iteration -1
+current max range: 10
+Current Balance: 1997.98
+True
+18375829604
+Time Placed = 2023-10-31 03:15:01.989000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 255
+iteration -1
+current max range: 10
+Current Balance: 1987.08
+True
+18375833114
+Time Placed = 2023-10-31 03:16:01.579000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 256
+iteration -1
+current max range: 10
+Current Balance: 1963.32
+True
+18375836231
+Time Placed = 2023-10-31 03:17:02.185000
+you loss -51.8$
+
+
+Check Connection: True
+Cycle: 257
+iteration -1
+current max range: 10
+Current Balance: 1911.52
+True
+18375839230
+Time Placed = 2023-10-31 03:18:01.809000
+you win 100.74999999999999$
+
+
+Check Connection: True
+Cycle: 258
+iteration -1
+current max range: 10
+Current Balance: 2012.27
+True
+18375842057
+Time Placed = 2023-10-31 03:19:01.449000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 259
+iteration -1
+current max range: 10
+Current Balance: 2016.73
+True
+18375844834
+Time Placed = 2023-10-31 03:20:02.066000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 260
+iteration -1
+current max range: 10
+Current Balance: 2011.73
+True
+18375847038
+Time Placed = 2023-10-31 03:21:01.679000
+you loss -10.9$
+
+
+Check Connection: True
+Cycle: 261
+iteration -1
+current max range: 10
+Current Balance: 2000.83
+True
+18375849923
+Time Placed = 2023-10-31 03:22:02.281000
+you loss -23.76$
+
+
+Check Connection: True
+Cycle: 262
+iteration -1
+current max range: 10
+Current Balance: 1977.07
+True
+18375852894
+Time Placed = 2023-10-31 03:23:01.919000
+you loss -51.8$
+
+
+Check Connection: True
+Cycle: 263
+iteration -1
+current max range: 10
+Current Balance: 1925.27
+True
+18375855285
+Time Placed = 2023-10-31 03:24:01.564000
+you loss -112.92$
+
+
+Check Connection: True
+Cycle: 264
+iteration -1
+current max range: 10
+Current Balance: 1812.35
+True
+18375858164
+Time Placed = 2023-10-31 03:25:03.215000
+you loss -246.17$
+
+
+Check Connection: True
+Cycle: 265
+iteration -1
+current max range: 10
+Current Balance: 1566.18
+True
+18375861119
+Time Placed = 2023-10-31 03:26:01.801000
+you loss -536.67$
+
+
+Check Connection: True
+Cycle: 266
+iteration -1
+current max range: 10
+Current Balance: 1029.51
+True
+18375864570
+Time Placed = 2023-10-31 03:27:01.423000

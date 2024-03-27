@@ -1,0 +1,553 @@
+Log Saved #4
+
+PS C:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project> & C:/Users/uadrian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/uadrian/OneDrive - Averroes Data Science/Documents/Python Project/buy_spot_martingale.py"
+
+
+Check Connection: True
+Cycle: 1
+iteration -1
+current max range: 10
+True
+18373001426
+Time Placed = 2023-10-30 07:07:02.653000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 2
+iteration -1
+current max range: 10
+True
+18373002813
+Time Placed = 2023-10-30 07:08:03.599000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 3
+iteration -1
+current max range: 10
+True
+18373004246
+Time Placed = 2023-10-30 07:09:03.500000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 4
+iteration -1
+current max range: 10
+True
+18373005988
+Time Placed = 2023-10-30 07:10:03.774000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 5
+iteration -1
+current max range: 10
+True
+18373007517
+Time Placed = 2023-10-30 07:11:03.977000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 6
+iteration -1
+current max range: 10
+True
+18373008910
+Time Placed = 2023-10-30 07:12:03.366000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 7
+iteration -1
+current max range: 10
+True
+18373010369
+Time Placed = 2023-10-30 07:13:03.764000
+you loss -51.09$
+
+
+Check Connection: True
+Cycle: 8
+iteration -1
+current max range: 10
+True
+18373011710
+Time Placed = 2023-10-30 07:14:03.069000
+you loss -110.86$
+
+
+Check Connection: True
+Cycle: 9
+iteration -1
+current max range: 10
+True
+18373013515
+Time Placed = 2023-10-30 07:15:04.032000
+you win 214.66$
+
+
+Check Connection: True
+Cycle: 10
+iteration -1
+current max range: 10
+True
+18373015200
+Time Placed = 2023-10-30 07:16:03.896000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 11
+iteration -1
+current max range: 10
+True
+18373016850
+Time Placed = 2023-10-30 07:17:04.547000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 12
+iteration -1
+current max range: 10
+True
+18373018273
+Time Placed = 2023-10-30 07:18:03.056000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 13
+iteration -1
+current max range: 10
+True
+18373019565
+Time Placed = 2023-10-30 07:19:03.153000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 14
+iteration -1
+current max range: 10
+True
+18373020980
+Time Placed = 2023-10-30 07:20:02.338000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 15
+iteration -1
+current max range: 10
+True
+18373022470
+Time Placed = 2023-10-30 07:21:02.339000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 16
+iteration -1
+current max range: 10
+True
+18373024073
+Time Placed = 2023-10-30 07:22:03.122000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 17
+iteration -1
+current max range: 10
+True
+18373025429
+Time Placed = 2023-10-30 07:23:04.139000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 18
+iteration -1
+current max range: 10
+True
+18373026738
+Time Placed = 2023-10-30 07:24:03.844000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 19
+iteration -1
+current max range: 10
+True
+18373028210
+Time Placed = 2023-10-30 07:25:02.414000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 20
+iteration -1
+current max range: 10
+True
+18373029864
+Time Placed = 2023-10-30 07:26:03.229000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 21
+iteration -1
+current max range: 10
+True
+18373031259
+Time Placed = 2023-10-30 07:27:03.127000
+you win 45.58$
+
+
+Check Connection: True
+Cycle: 22
+iteration -1
+current max range: 10
+True
+18373032605
+Time Placed = 2023-10-30 07:28:02.956000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 23
+iteration -1
+current max range: 10
+True
+18373033820
+Time Placed = 2023-10-30 07:29:02.412000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 24
+iteration -1
+current max range: 10
+True
+18373035015
+Time Placed = 2023-10-30 07:30:02.189000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 25
+iteration -1
+current max range: 10
+True
+18373036712
+Time Placed = 2023-10-30 07:31:02.326000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 26
+iteration -1
+current max range: 10
+True
+18373038377
+Time Placed = 2023-10-30 07:32:03.624000
+you win 45.58$
+
+
+Check Connection: True
+Cycle: 27
+iteration -1
+current max range: 10
+True
+18373039993
+Time Placed = 2023-10-30 07:33:03.508000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 28
+iteration -1
+current max range: 10
+True
+18373041613
+Time Placed = 2023-10-30 07:34:03.789000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 29
+iteration -1
+current max range: 10
+True
+18373043219
+Time Placed = 2023-10-30 07:35:03.536000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 30
+iteration -1
+current max range: 10
+True
+18373044813
+Time Placed = 2023-10-30 07:36:03.559000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 31
+iteration -1
+current max range: 10
+True
+18373046331
+Time Placed = 2023-10-30 07:37:03.022000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 32
+iteration -1
+current max range: 10
+True
+18373047881
+Time Placed = 2023-10-30 07:38:04.111000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 33
+iteration -1
+current max range: 10
+True
+18373049643
+Time Placed = 2023-10-30 07:39:02.442000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 34
+iteration -1
+current max range: 10
+True
+18373051230
+Time Placed = 2023-10-30 07:40:03.972000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 35
+iteration -1
+current max range: 10
+True
+18373053074
+Time Placed = 2023-10-30 07:41:03.635000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 36
+iteration -1
+current max range: 10
+True
+18373054689
+Time Placed = 2023-10-30 07:42:03.843000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 37
+iteration -1
+current max range: 10
+True
+18373056175
+Time Placed = 2023-10-30 07:43:03.200000
+you loss -23.54$
+
+
+Check Connection: True
+Cycle: 38
+iteration -1
+current max range: 10
+True
+18373057989
+Time Placed = 2023-10-30 07:44:03.889000
+you loss -51.09$
+
+
+Check Connection: True
+Cycle: 39
+iteration -1
+current max range: 10
+True
+18373059260
+Time Placed = 2023-10-30 07:45:04.055000
+you win 98.92999999999999$
+
+
+Check Connection: True
+Cycle: 40
+iteration -1
+current max range: 10
+True
+18373061091
+Time Placed = 2023-10-30 07:46:03.554000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 41
+iteration -1
+current max range: 10
+True
+18373062658
+Time Placed = 2023-10-30 07:47:03.873000
+you loss -10.85$
+
+
+Check Connection: True
+Cycle: 42
+iteration -1
+current max range: 10
+True
+18373064214
+Time Placed = 2023-10-30 07:48:03.575000
+you win 21.009999999999998$
+
+
+Check Connection: True
+Cycle: 43
+iteration -1
+current max range: 10
+True
+18373065501
+Time Placed = 2023-10-30 07:49:03.511000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 44
+iteration -1
+current max range: 10
+True
+18373067102
+Time Placed = 2023-10-30 07:50:04.425000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 45
+iteration -1
+current max range: 10
+True
+18373068722
+Time Placed = 2023-10-30 07:51:03.866000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 46
+iteration -1
+current max range: 10
+True
+18373070230
+Time Placed = 2023-10-30 07:52:03.799000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 47
+iteration -1
+current max range: 10
+True
+18373072248
+Time Placed = 2023-10-30 07:53:04.067000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 48
+iteration -1
+current max range: 10
+True
+18373074055
+Time Placed = 2023-10-30 07:54:03.949000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 49
+iteration -1
+current max range: 10
+True
+18373075733
+Time Placed = 2023-10-30 07:55:03.280000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 50
+iteration -1
+current max range: 10
+True
+18373077521
+Time Placed = 2023-10-30 07:56:03.764000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 51
+iteration -1
+current max range: 10
+True
+18373079209
+Time Placed = 2023-10-30 07:57:02.366000
+you win 4.460000000000001$
+
+
+Check Connection: True
+Cycle: 52
+iteration -1
+current max range: 10
+True
+18373080755
+Time Placed = 2023-10-30 07:58:04.513000
+you loss -5$
+
+
+Check Connection: True
+Cycle: 53
+iteration -1
+current max range: 10
+True
+18373082741
+Time Placed = 2023-10-30 07:59:03.190000
+you win 9.680000000000001$
+
+
+Check Connection: True
+Cycle: 54
+iteration -1
+current max range: 10
+False
+{'code': 'error_place_digital_order', 'message': 'rejected by risks'} 
+Time Placed = 2023-10-30 08:00:03.803000
+Traceback (most recent call last):
+  File "c:\Users\uadrian\OneDrive - Averroes Data Science\Documents\Python Project\buy_spot_martingale.py", line 54, in <module>
+    while True:
+
+  File "C:\Users\uadrian\AppData\Local\Programs\Python\Python312\Lib\site-packages\iqoptionapi\stable_api.py", line 1212, in check_win_digital_v2
+    while self.get_async_order(buy_order_id)["position-changed"] == {}:
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\uadrian\AppData\Local\Programs\Python\Python312\Lib\site-packages\iqoptionapi\stable_api.py", line 1312, in get_async_order
+    return self.api.order_async[buy_order_id]
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+TypeError: unhashable type: 'dict'
