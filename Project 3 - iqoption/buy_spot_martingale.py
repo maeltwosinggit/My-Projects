@@ -5,9 +5,14 @@ import time
 
 import pandas as pd
 from datetime import datetime
+from secrets import secrets
 
 #logging.basicConfig(level=logging.DEBUG,format='%(asctime)s %(message)s')
-Iq=IQ_Option("ungkuadrian@gmail.com","Nanana123")
+
+email = secrets.get('email')
+password = secrets.get('password')
+
+Iq=IQ_Option(email,password)
 Iq.connect()#connect to iqoption
 ACTIVES="EURUSD-OTC" #EURUSD-OTC
 duration=1#minute 1 or 5

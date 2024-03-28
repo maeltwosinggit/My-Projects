@@ -1,7 +1,12 @@
 from iqoptionapi.stable_api import IQ_Option
 import time
 error_password="""{"code":"invalid_credentials","message":"You entered the wrong credentials. Please check that the login/password is correct."}"""
-iqoption = IQ_Option("ungkuadrian@gmail.com", "Nanana123")
+from secrets import secrets
+
+email = secrets.get('email')
+password = secrets.get('password')
+
+Iq=IQ_Option(email,password)
 check,reason=iqoption.connect()
 
 #macam tak jadi, lepas tutup wifi still tak masuk loop if iqoption.check_connect()==False

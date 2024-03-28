@@ -1,7 +1,12 @@
 import pandas as pd
 import time
 from iqoptionapi.stable_api import IQ_Option
-Iq=IQ_Option("ungkuadrian@gmail.com","Nanana123")
+from secrets import secrets
+
+email = secrets.get('email')
+password = secrets.get('password')
+
+Iq=IQ_Option(email,password)
 print("Connecting...")
 check,reason=Iq.connect()#connect to iqoption
 print(check, reason)
