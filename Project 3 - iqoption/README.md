@@ -1,3 +1,12 @@
+## Dependencies
+pip install -U https://github.com/iqoptionapi/iqoptionapi/archive/refs/heads/master.zip OR
+pip install -U git+git://github.com/iqoptionapi/iqoptionapi.git (never tried this version yet)
+
+## Reference Links
+- https://github.com/iqoptionapi/iqoptionapi/tree/master
+- https://lu-yi-hsun.github.io/iqoptionapi/
+- https://iqoptionapi.github.io/iqoptionapi/en/
+
 ## Project Log
 
 3/11/2023
