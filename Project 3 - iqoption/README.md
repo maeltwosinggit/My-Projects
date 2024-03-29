@@ -11,7 +11,7 @@ pip install -U git+git://github.com/iqoptionapi/iqoptionapi.git (never tried thi
 29/3/2024
 - pushed my project to github
 - seperated credentials to secrets.py
-- renamed secrets.py to secret.py due to conflict with numpy
+- renamed secrets.py to secret.py due to conflict with numpy ref: https://stackoverflow.com/questions/73055157/what-does-importerror-cannot-import-name-randbits-mean
 
 3/11/2023
 - tried to visualize data in Power BI (no luck haha)
