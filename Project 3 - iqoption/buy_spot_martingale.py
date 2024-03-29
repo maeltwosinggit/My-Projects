@@ -1,16 +1,16 @@
 from iqoptionapi.stable_api import IQ_Option
-import logging
-import random
-import time
+# import logging
+# import random
+# import time
 
 import pandas as pd
 from datetime import datetime
-from secrets import secrets
+from secret import secret
 
 #logging.basicConfig(level=logging.DEBUG,format='%(asctime)s %(message)s')
 
-email = secrets.get('email')
-password = secrets.get('password')
+email = secret.get('email')
+password = secret.get('password')
 
 Iq=IQ_Option(email,password)
 Iq.connect()#connect to iqoption
@@ -30,7 +30,7 @@ try:
     while count < max_range:
         print("\n\nCheck Connection:",Iq.check_connect())
         #Iq.connect()#connect to iqoption #letak sementara untuk test connection, maybe akan issue delay time
-        #count+=1    #comment out for infinite loop
+        count+=1    #comment out for infinite loop
         cycle+=1
         print("Cycle:", cycle)    
         print("iteration",count)

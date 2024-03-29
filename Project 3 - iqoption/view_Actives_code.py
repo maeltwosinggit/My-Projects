@@ -1,8 +1,8 @@
 from iqoptionapi.stable_api import IQ_Option
-from secrets import secrets
+from secret import secret
 
-email = secrets.get('email')
-password = secrets.get('password')
+email = secret.get('email')
+password = secret.get('password')
 
 Iq=IQ_Option(email,password)
 print("Connecting...")
