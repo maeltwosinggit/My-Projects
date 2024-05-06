@@ -1,1 +1,4 @@
 linkedinscrape.ipynb
+LinkedInProfileScraper.py
+*.pyc
+__pycache__
