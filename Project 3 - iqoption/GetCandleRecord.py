@@ -14,18 +14,53 @@ print(Iq.get_balance())
 # print(Iq.reset_practice_balance())
 print(Iq.get_balance()) 
 
-end_from_time=time.time()
-ANS=[]
+# end_from_time=time.time()
+# ANS=[]
+# for i in range(10800):
+#     data=Iq.get_candles("EURUSD=OTC", 60, 1, end_from_time)
+#     ANS =data+ANS
+#     end_from_time=int(data[0]["from"])-1
+#     print(ANS)
+# print(ANS)
+
+end_from_time = time.time()
+ANS = []
+
 for i in range(10800):
-    data=Iq.get_candles("EURUSD", 60, 1, end_from_time)
-    ANS =data+ANS
-    end_from_time=int(data[0]["from"])-1
-print(ANS)
+    try:
+        data = Iq.get_candles("EURUSD-OTC", 60, 1, end_from_time)
+        if data:
+            ANS.append(data[0])
+            end_from_time = int(data[0]["from"]) - 1
+        else:
+            print("No data received, retrying...")
+            time.sleep(1)  # Retry after a short delay
+    except Exception as e:
+        print(f"Error fetching data at iteration {i}: {e}")
+        time.sleep(5)  # Longer delay before retrying after an error
 
-df = pd.DataFrame(ANS)
+        # Attempt to reconnect if necessary
+        if "need reconnect" in str(e).lower():
+            print("Reconnecting...")
+            Iq=IQ_Option(email,password)
+            check,reason=Iq.connect()#connect to iqoption
+            if check != "True":
+                print("Reconnection failed, exiting.")
+                break
 
-xlsx_file = 'outputweek.xlsx'
+    # if i % 100 == 0:
+    print(f"Collected {len(ANS)} candles so far")
 
-df.to_excel(xlsx_file, index=False)
+    # Save progress intermittently
+    df = pd.DataFrame(ANS)
+    df.to_excel('intermediate_output.xlsx', index=False)
+    print("Intermediate data saved to 'intermediate_output.xlsx'")
 
-print(f'Data saved to {xlsx_file}')
+# Save the final collected data
+if ANS:
+    df = pd.DataFrame(ANS)
+    xlsx_file = 'outputweek.xlsx'
+    df.to_excel(xlsx_file, index=False)
+    print(f"Data saved to {xlsx_file}")
+else:
+    print("No data collected.")

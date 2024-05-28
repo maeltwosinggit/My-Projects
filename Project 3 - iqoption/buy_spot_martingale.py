@@ -22,7 +22,7 @@ coef = 2.18
 cycle = 0
 
 win = 1
-max_range = 10
+max_range = 60
 count = -1
 record = []
 
@@ -36,7 +36,7 @@ try:
         print("iteration",count)
         print("current max range:", max_range)
         
-        print("Current Balance:",Iq.get_balance())
+        print("Current Balance Before Trade:",Iq.get_balance())
 
         
         
@@ -61,8 +61,10 @@ try:
                             break
                     if win<0:
                         print("you loss "+str(win)+"$")
+                        print("Current Balance After Trade:",Iq.get_balance())
                     else:
                         print("you win "+str(win)+"$")
+                        print("Current Balance After Trade:",Iq.get_balance())
                 else:
                     print("please try again")
             
@@ -80,8 +82,10 @@ try:
                             break
                     if win<0:
                         print("you loss "+str(win)+"$")
+                        print("Current Balance After Trade:",Iq.get_balance())
                     else:
                         print("you win "+str(win)+"$")
+                        print("Current Balance After Trade:",Iq.get_balance())
                 else:
                     print("please try again")
         
