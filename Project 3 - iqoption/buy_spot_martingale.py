@@ -14,7 +14,7 @@ password = secret.get('password')
 
 Iq=IQ_Option(email,password)
 Iq.connect()#connect to iqoption
-ACTIVES="EURUSD-OTC" #EURUSD-OTC
+ACTIVES="EURUSD" #EURUSD-OTC
 duration=1#minute 1 or 5
 amount=5
 action="call"#put
@@ -30,7 +30,7 @@ try:
     while count < max_range:
         print("\n\nCheck Connection:",Iq.check_connect())
         #Iq.connect()#connect to iqoption #letak sementara untuk test connection, maybe akan issue delay time
-        count+=1    #comment out for infinite loop
+        # count+=1    #comment out for infinite loop
         cycle+=1
         print("Cycle:", cycle)    
         print("iteration",count)
