@@ -69,6 +69,8 @@
     </div>
 
     <script>
+        let conversationHistory = [];
+
         async function sendMessage() {
             const userInput = document.getElementById('userInput').value;
             if (!userInput) return;
@@ -79,12 +81,14 @@
             userMessageDiv.textContent = userInput;
             messagesDiv.appendChild(userMessageDiv);
 
+            conversationHistory.push({ role: 'user', content: userInput });
+
             const response = await fetch('/chat', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ message: userInput })
+                body: JSON.stringify({ message: userInput, history: conversationHistory })
             });
 
             const data = await response.json();
@@ -92,6 +96,8 @@
             botMessageDiv.className = 'message bot';
             botMessageDiv.textContent = data.message;
             messagesDiv.appendChild(botMessageDiv);
+
+            conversationHistory = data.history;
 
             document.getElementById('userInput').value = '';
             messagesDiv.scrollTop = messagesDiv.scrollHeight;

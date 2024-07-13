@@ -21,21 +21,23 @@ def index():
 def chat():
     data = request.json
     user_message = data.get("message")
-    messages = [
-        {"role": "system", "content": 'You are a helpful assistant.'
-        },
-        {"role": "user", "content": user_message},
-    ]
-
+    conversation_history = data.get("history", [])
 
     if user_message:
+        # Add the user message to the conversation history
+        conversation_history.append({"role": "user", "content": user_message})
+
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=messages,
+            messages=conversation_history,
             max_tokens=4096  # Adjust this value as needed
         )
+
         bot_message = response.choices[0].message.content
-        return jsonify({"message": bot_message})
+        # Add the bot message to the conversation history
+        conversation_history.append({"role": "assistant", "content": bot_message})
+
+        return jsonify({"message": bot_message, "history": conversation_history})
     return jsonify({"message": "No message provided"}), 400
 
 if __name__ == '__main__':
