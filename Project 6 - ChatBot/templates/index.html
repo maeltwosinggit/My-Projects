@@ -4,60 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chatbot by UMIA</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-        }
-        .chat-container {
-            width: 400px;
-            background: white;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        .messages {
-            height: 300px;
-            overflow-y: auto;
-            margin-bottom: 20px;
-            border: 1px solid #ddd;
-            padding: 10px;
-            border-radius: 4px;
-        }
-        .message {
-            margin-bottom: 10px;
-        }
-        .message.user {
-            text-align: right;
-        }
-        .message.bot {
-            text-align: left;
-        }
-        .input-container {
-            display: flex;
-        }
-        .input-container input {
-            flex: 1;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-        .input-container button {
-            padding: 10px;
-            border: none;
-            background: #007bff;
-            color: white;
-            border-radius: 4px;
-            margin-left: 10px;
-            cursor: pointer;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <!-- Include marked.js from CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <div class="chat-container">
@@ -94,7 +43,10 @@
             const data = await response.json();
             const botMessageDiv = document.createElement('div');
             botMessageDiv.className = 'message bot';
-            botMessageDiv.textContent = data.message;
+            // botMessageDiv.textContent = data.message;
+            // Render bot's message from Markdown to HTML
+            botMessageDiv.innerHTML = marked.parse(data.message);
+
             messagesDiv.appendChild(botMessageDiv);
 
             conversationHistory = data.history;
