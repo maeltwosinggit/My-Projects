@@ -43,7 +43,7 @@
             const data = await response.json();
             const botMessageDiv = document.createElement('div');
             botMessageDiv.className = 'message bot';
-            // botMessageDiv.textContent = data.message;
+            // botMessageDiv.textContent = data.message; //this uses the original output from openAI
             // Render bot's message from Markdown to HTML
             botMessageDiv.innerHTML = marked.parse(data.message);
 
