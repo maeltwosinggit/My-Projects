@@ -14,7 +14,7 @@ password = secret.get('password')
 
 Iq=IQ_Option(email,password)
 Iq.connect()#connect to iqoption
-ACTIVES="EURUSD" #EURUSD-OTC
+ACTIVES="EURUSD-OTC" #EURUSD-OTC
 duration=1#minute 1 or 5
 amount=5
 action="call"#put
@@ -50,7 +50,7 @@ try:
             if win<0:
                 amount = amount*coef
                 print("Amount: ", amount)
-                _,id=(Iq.buy_digital_spot(ACTIVES,amount,action,duration))
+                _,id=(Iq.buy_digital_spot_v2(ACTIVES,amount,action,duration))
                 print(_)
                 print(id)
                 print("Time Placed =", datetime.fromtimestamp(Iq.get_server_timestamp()))
@@ -71,7 +71,7 @@ try:
             else:
                 amount = 5
                 print("Amount: ", amount)
-                _,id=(Iq.buy_digital_spot(ACTIVES,amount,action,duration))
+                _,id=(Iq.buy_digital_spot_v2(ACTIVES,amount,action,duration))
                 print(_)
                 print(id)
                 print("Time Placed =", datetime.fromtimestamp(Iq.get_server_timestamp()))
